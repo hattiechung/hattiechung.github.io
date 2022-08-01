@@ -39,6 +39,6 @@ Between my Ph. D. and postdoc, I worked with Andrew C. Weber, the former Assista
 
 Previously, I was a fellow with Northpond Ventures. 
 
-I enjoy cooking, piano, ballet, learning new languages, and traveling. 
+I enjoy cooking, piano, ballet, languages, reading, and traveling. 
 
 Website design from [this repo](https://github.com/ankitsultana/researcher)
