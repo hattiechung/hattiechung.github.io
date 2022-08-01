@@ -25,7 +25,7 @@ I received my S.B. in [Biological Engineering](https://be.mit.edu/) from MIT wit
 
 
 ## News and Events
-[06-13-2022] Invited to teach inCITE-seq at the hands-on workshop on [Single cell profiling and analysis in neuroscience](http://cajal-training.org/on-site/scpan/), hosted by the Cajal Advanced Neuroscience Training Programme and the Bordeaux School of Neuroscience. \\
+[06-13-2022] Invited to teach inCITE-seq at a hands-on workshop on [Single cell profiling and analysis in neuroscience](http://cajal-training.org/on-site/scpan/), hosted by the Cajal Advanced Neuroscience Training Programme and the Bordeaux School of Neuroscience. \\
 [02-17-2022] Invited talk @ MIT Department of Biological Engineering, my undergrad alma mater. \\
 [02-01-2022] Interview in a Nature Methods Technology Feature on [How single-cell multi-omics builds relationships](https://www.nature.com/articles/s41592-022-01392-8).\\
 [11-15-2021] Invited talk @ Genentech, Cell and Tissue Genomics division.  
