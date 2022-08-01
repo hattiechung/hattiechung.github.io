@@ -4,7 +4,7 @@
 
 Hello! I am a postdoctoral researcher at The Broad Institute of MIT and Harvard co-advised by [Aviv Regev](https://www.broadinstitute.org/bios/aviv-regev) (now at [Genentech](https://www.gene.com/scientists/our-scientists/aviv-regev)) and [Fei Chen](https://www.insitubiology.org/people).
 
-I received my Ph. D. in [Systems Biology](https://ssqbiophd.hms.harvard.edu/) from Harvard University as a Paul and Daisy [Soros Fellow](https://www.pdsoros.org/meet-the-fellows/hattie-chung), advised by [Roy Kishony](https://kishony.technion.ac.il/) (now at Technion–Israel Institute of Technology, where I spent 3 summers). My thesis is on how pathogens evolve during respiratory infections. 
+I received my Ph. D. in [Systems Biology](https://ssqbiophd.hms.harvard.edu/) from Harvard University as a Paul and Daisy [Soros Fellow](https://www.pdsoros.org/meet-the-fellows/hattie-chung), advised by [Roy Kishony](https://kishony.technion.ac.il/) (now at Technion–Israel Institute of Technology, where I spent 3 summers). My thesis is on how pathogens evolve during respiratory infections. I worked closely with clinicians at Boston Children's Hospital to study pathogen dynamics directly from patient samples.
 
 I received my S.B. in [Biological Engineering](https://be.mit.edu/) from MIT with a minor in applied international studies. As an undergrad, I worked with [Ron Weiss](https://be.mit.edu/directory/ron-weiss) to program mammalian cells with RNA circuits, and with [Robert Langer](https://langerlab.mit.edu/) to create a vaccine adjuvant by delivering small therapeutic RNA with lipid nanoparticles. 
 
