@@ -1,45 +1,40 @@
----
-layout: default
----
+## About Me 
 
-## About Me
+<img class="profile-picture" src="profile.jpg" style="float: right;" align="right" width="200">
 
-<img class="profile-picture" src="sherlock.jpg">
+Hello! I am a postdoctoral researcher at The Broad Institute of MIT and Harvard, co-advised by [Aviv Regev](https://www.broadinstitute.org/bios/aviv-regev) (now at [Genentech](https://www.gene.com/scientists/our-scientists/aviv-regev)) and [Fei Chen](https://www.insitubiology.org/people).
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+I received my Ph. D. in [Systems Biology](https://ssqbiophd.hms.harvard.edu/) from Harvard University as a Paul and Daisy [Soros Fellow](https://www.pdsoros.org/meet-the-fellows/hattie-chung). I received my S.B. in Biological Engineering from MIT, with a minor in Applied International Studies and a concentration in French. 
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+## Research Interests
 
-## Research Interest
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+I am an experimental and computational biologist intersted in understanding and predicting how cells respond to drugs in their native tissue contexts. Specifically, I develop proteogenomic tools that measure dynamic changes in cell signaling in tissues, using single-cell and machine learning methods to collect and model multi-modal biological information.
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. Joint single-cell measurements of nuclear proteins and RNA in vivo. \\ **Chung H**, Parkhurst CN, Magee EM, Phillips D, Habibi E, Chen F, Yeung BZ, Waldman J, Artis D, Regev A. \\ ***Nature Methods*** 2021 \\ [[link](https://www.nature.com/articles/s41592-021-01278-1)] [[pdf](pdfs/inCITEseq.pdf)] [[news](https://www.nature.com/articles/s41592-022-01392-8)]
+2. Rapid expansion and extinction of antibiotic resistance mutations during treatment of acute bacterial respiratory infections. \\ **Chung H**, Merakou C, Schaefers MM, Flett KB, Martini S, Lu R, Blumenthal JA, Webster SS, Cross AR, Al Ahmar R, Halpin E, Anderson M, Moore NS, Snesrud EC, Yu HD, Goldberg JB, O'Toole GA, McGann P, Stam JA, Hinkle M, McAdam AJ, Kishony R, Priebe GP. \\ ***Nature Communications*** 2022 \\ [[link](https://www.nature.com/articles/s41467-022-28188-w)] [[pdf](pdfs/acute.pdf)] [[news](https://answers.childrenshospital.org/genomic-surveillance-bacteria/)]
+3. Single-cell meta-analysis of SARS-CoV-2 entry genes across tissues and demographics. \\ Muus C\*, Luecken M\*, Eraslan G\*, Waghray A\*, Heimberg G\*, Sikkema L\*, Kobayashi Y\*, Vaishnav ED\*, Subramanian A\*, Smillie CS\*, Jagadeesh K\*, Duong ET\*, Fiskin E\*, Torlai Triglai E\*, Ansari M\*, Cai P\*, Lin B\*, Buchanan J\*, Chen S\*, Shu J\*, Haber AL\*, **Chung H\***, Montoro DT\*, ... , NHLBI LungMAP Consortium. \\ ***Nature Medicine*** 2021. ***This was a large team effort at the start of the COVID-19 pandemic***. [[link](https://www.nature.com/articles/s41591-020-01227-z)]
+4. A multi-view generative model for small molecule representation improves prediction tasks. \\ Yin Y\*, **Chung H\***, Regev A. \\ ***NeurIPS Learning Meaningful Representations of Life workshop*** 2020 \\[[link](https://drive.google.com/file/d/1LlHTQ307MGxHsJbRDIJrEGPLRCBvbk0P/preview)][[pdf](pdfs/multiviewVAE.pdf)] [[selected talk](https://slideslive.com/38942737/a-multiview-generative-model-for-molecular-representation-improves-prediction-tasks)]
+5. The microbiota regulate neuronal function and fear extinction learning. \\ Chu C, Murdock MH, Jing D, Won TH, **Chung H**, Kressel AM, Tsaava T, Addorisio ME, Putzel GG, Zhou L, Bessman NJ, Yang R, Moriyama S, Parkhurst CN, Li A, Meyer HC, Teng F, Chavan SS, Tracey KJ, Regev A, Schroeder FC, Liston C, Artis D. \\ ***Nature*** 2019. [[link](https://www.nature.com/articles/s41586-019-1644-y)]
+6. 
 
-## Typography
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+## News 
+[06-13-2022] Invited to teach inCITE-seq at the hands-on workshop on [*Single cell profiling and analysis in neuroscience*](http://cajal-training.org/on-site/scpan/), hosted by the Cajal Advanced Neuroscience Training Programme and the Bordeaux School of Neuroscience. \\
+[02-17-2022] Invited talk @ MIT Department of Biological Engineering, my undergrad alma mater. \\
+[02-01-2022] Featured in an interview with science writer Vivien Marx in a Nature Methods special on [*How single-cell multi-omics builds relationships*](https://www.nature.com/articles/s41592-022-01392-8).\\
+[11-01-2021] Invited talk @ Genentech, Cell and Tissue Genomics division.  
+[08-XX-2021] Invited talk @ Single Cell Proteomics Conference. Recording [here](https://www.youtube.com/watch?v=gvAb5Q0abYo).
+[08-XX-2021] Invited talk @ Cell Circuits & Epigenomics Seminar, Broad Institute. 
+[03-XX-2021] Invited talk @ [Single Cell Genomics day](https://satijalab.org/scgd21/), hosted by the Satija Lab at the New York Genome Center.
 
-Here is a table
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+## Other
+After my Ph.D., I worked with Andrew C. Weber, former Assistant Secretary of Defense for Nuclear, Chemical & Biological Defense Programs. I co-authored [a white paper](https://www.belfercenter.org/publication/north-koreas-biological-weapons-program-known-and-unknown) on North Korea's Bioweapons program, which was featured in [The Washington Post](https://www.washingtonpost.com/world/national-security/microbes-by-the-ton-officials-see-weapons-threat-as-north-korea-gains-biotech-expertise/2017/12/10/9b9d5f9e-d5f0-11e7-95bf-df7c19270879_story.html) by a Pulitzer-winning journalist and in [FiveThirtyEight](https://fivethirtyeight.com/features/north-koreas-nukes-may-not-be-its-biggest-threat/). I was an Emerging Leader in Biosecurity [Fellow](https://www.centerforhealthsecurity.org/our-work/emergingbioleaders/class-of-2018.html) through the Center for Health Security at Johns Hopkins. 
 
-Here is a horizontal rule
+Previously, I was a fellow with Northpond Ventures. 
 
----
+I enjoy cooking, piano, ballet, learning new languages, and traveling. 
 
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+Website design from [this repo](https://github.com/ankitsultana/researcher)
