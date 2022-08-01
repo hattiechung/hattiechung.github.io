@@ -1,3 +1,4 @@
+<div style="font-family: 'Arial'">
 ## About Me 
 
 <img class="profile-picture" src="profile.jpg" style="float: right;" align="right" width="200">
@@ -42,3 +43,4 @@ Between my Ph. D. and postdoc (2016-2018), I worked with Andrew C. Weber, the fo
 I enjoy cooking, piano, ballet, languages, reading, and traveling. 
 
 Website design from [this repo](https://github.com/ankitsultana/researcher)
+</div>
