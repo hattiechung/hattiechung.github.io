@@ -1,10 +1,6 @@
----
-layout: default
----
-
 ## About Me
 
-<img class="profile-picture" src="hchung.jpg">
+<img class="profile-picture" src="Hattie_Chung_professional.jpg">
 
 Hello! I am a postdoctoral researcher at The Broad Institute of MIT and Harvard, co-advised by [Aviv Regev](https://www.broadinstitute.org/bios/aviv-regev) (now at [Genentech](https://www.gene.com/scientists/our-scientists/aviv-regev)) and [Fei Chen](https://www.insitubiology.org/people). I develop protegenomic tools to study cell signaling in tissues. In particular, I develop experimental and computational tools that measure how cells respond to drugs directly in their native tissue contexts, with focus on multi-modal single-cell genomics. 
 
