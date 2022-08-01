@@ -37,8 +37,6 @@ I received my S.B. in [Biological Engineering](https://be.mit.edu/) from MIT wit
 ## Other
 Between my Ph. D. and postdoc (2016-2018), I worked with Andrew C. Weber, the former Assistant Secretary of Defense for Nuclear, Chemical & Biological Defense Programs. I co-authored [a white paper](https://www.belfercenter.org/publication/north-koreas-biological-weapons-program-known-and-unknown) on North Korea's Bioweapons program, which was featured in [The Washington Post](https://www.washingtonpost.com/world/national-security/microbes-by-the-ton-officials-see-weapons-threat-as-north-korea-gains-biotech-expertise/2017/12/10/9b9d5f9e-d5f0-11e7-95bf-df7c19270879_story.html) and in [FiveThirtyEight](https://fivethirtyeight.com/features/north-koreas-nukes-may-not-be-its-biggest-threat/). I was an Emerging Leader in Biosecurity [Fellow](https://www.centerforhealthsecurity.org/our-work/emergingbioleaders/class-of-2018.html) through the Center for Health Security at Johns Hopkins. 
 
-In 2018, I was a fellow with Northpond Ventures. 
-
 I enjoy cooking, piano, ballet, languages, reading, and traveling. 
 
 Website design from [this repo](https://github.com/ankitsultana/researcher)
