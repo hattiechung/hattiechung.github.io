@@ -2,7 +2,7 @@
 
 <img class="profile-picture" src="profile.jpg" style="float: right;" align="right" width="200">
 
-Hello! I am a postdoctoral researcher at The Broad Institute of MIT and Harvard, co-advised by [Aviv Regev](https://www.broadinstitute.org/bios/aviv-regev) (now at [Genentech](https://www.gene.com/scientists/our-scientists/aviv-regev)) and [Fei Chen](https://www.insitubiology.org/people).
+Hello! I am a postdoctoral researcher at The Broad Institute of MIT and Harvard co-advised by [Aviv Regev](https://www.broadinstitute.org/bios/aviv-regev) (now at [Genentech](https://www.gene.com/scientists/our-scientists/aviv-regev)) and [Fei Chen](https://www.insitubiology.org/people).
 
 I received my Ph. D. in [Systems Biology](https://ssqbiophd.hms.harvard.edu/) from Harvard University as a Paul and Daisy [Soros Fellow](https://www.pdsoros.org/meet-the-fellows/hattie-chung). I received my S.B. in Biological Engineering from MIT, with a minor in Applied International Studies and a concentration in French. 
 
