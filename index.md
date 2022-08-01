@@ -8,7 +8,7 @@ I received my Ph. D. in [Systems Biology](https://ssqbiophd.hms.harvard.edu/) fr
 
 ## Research Interests
 
-I am an experimental and computational biologist intersted in understanding and predicting how cells respond to drugs in their native tissue contexts. Specifically, I develop proteogenomic tools that measure dynamic changes in cell signaling in tissues, using single-cell and machine learning methods to collect and model multi-modal biological information.
+I am an experimental and computational biologist intersted in understanding and predicting how cells respond to drugs in their native tissue contexts. Specifically, I develop proteogenomic tools that measure dynamic cell signaling states in tissues, with single-cell and machine learning approaches to collect and model multi-modal biological information.
 
 ## Publications
 
