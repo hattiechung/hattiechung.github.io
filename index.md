@@ -18,17 +18,20 @@ I am an experimental and computational biologist intersted in understanding and 
 4. A multi-view generative model for small molecule representation improves prediction tasks. \\ Yin Y\*, **Chung H\***, Regev A. \\ ***NeurIPS Learning Meaningful Representations of Life workshop*** 2020 \\[[link](https://drive.google.com/file/d/1LlHTQ307MGxHsJbRDIJrEGPLRCBvbk0P/preview)] [[pdf](pdfs/multiviewVAE.pdf)] [[selected talk](https://slideslive.com/38942737/a-multiview-generative-model-for-molecular-representation-improves-prediction-tasks)]
 5. The microbiota regulate neuronal function and fear extinction learning. \\ Chu C, Murdock MH, Jing D, Won TH, **Chung H**, Kressel AM, Tsaava T, Addorisio ME, Putzel GG, Zhou L, Bessman NJ, Yang R, Moriyama S, Parkhurst CN, Li A, Meyer HC, Teng F, Chavan SS, Tracey KJ, Regev A, Schroeder FC, Liston C, Artis D. \\ ***Nature*** 2019. [[link](https://www.nature.com/articles/s41586-019-1644-y)] [[news](https://www.nature.com/articles/d41586-019-03114-1)]
 6. Global and local selection acting on the pathogen Stenotrophomonas maltophilia in the human lung. \\ **Chung H**, Lieberman TD, Vargas SO, Flett KB, McAdam AJ, Priebe GP, Kishony R. \\ ***Nature Communications*** 2017. [[link](https://www.nature.com/articles/ncomms14078)] [[pdf](pdfs/steno_lung.pdf)]
-7. RNA structural determinants of optimal codons revealed by MAGE-Seq. \\ Kelsic ED\*, **Chung\***, Cohen N, Park J, Wang HH, Kishony R. \\ ***Cell Systems*** 2016. [[link](https://www.sciencedirect.com/science/article/pii/S2405471216303684)] [[pdf][pdfs/codonbias.pdf]] [[highlight](https://www.sciencedirect.com/science/article/pii/S2405471217300042)]
+7. RNA structural determinants of optimal codons revealed by MAGE-Seq. \\ Kelsic ED\*, **Chung H\***, Cohen N, Park J, Wang HH, Kishony R. \\ ***Cell Systems*** 2016. [[link](https://www.sciencedirect.com/science/article/pii/S2405471216303684)] [[pdf][pdfs/codonbias.pdf]] [[highlight](https://www.sciencedirect.com/science/article/pii/S2405471217300042)]
+8. Inexpensive Multiplexed Library Preparation for Megabase-Sized Genomes. \\ Baym M\*, Kryazhimskiy S\*, Lieberman TD\*, **Chung H\***. \\ ***PLoS ONE*** 2015. [[link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0128036)]
+9. Isocost lines describe the cellular economy of genetic circuits. \\ Gyorgy A, Jimenez JI, Yazbek J, Huang HH, **Chung H**, Weiss R, Del Vecchio D. \\ ***Biophysical Journal*** 2015. [[link](https://www.sciencedirect.com/science/article/pii/S0006349515006177)]
+10. Lipid-derived nanoparticles for immunostimulatory RNA adjuvant delivery. \\ Nguyen DN, Mahon KP, Chikh G, Kim P, **Chung H**, Vicari AP, Love KT, Goldberg M, Chen S, Krieg AM, Chen J, Langer R. Anderson DG. \\ ***PNAS*** 2012. [[link](https://www.pnas.org/doi/abs/10.1073/pnas.1121423109)]
 
 
 ## News 
-[06-13-2022] Invited to teach inCITE-seq at the hands-on workshop on [*Single cell profiling and analysis in neuroscience*](http://cajal-training.org/on-site/scpan/), hosted by the Cajal Advanced Neuroscience Training Programme and the Bordeaux School of Neuroscience. \\
+[06-13-2022] Invited to teach inCITE-seq at the hands-on workshop on [Single cell profiling and analysis in neuroscience](http://cajal-training.org/on-site/scpan/), hosted by the Cajal Advanced Neuroscience Training Programme and the Bordeaux School of Neuroscience. \\
 [02-17-2022] Invited talk @ MIT Department of Biological Engineering, my undergrad alma mater. \\
-[02-01-2022] Featured in an interview with science writer Vivien Marx in a Nature Methods special on [*How single-cell multi-omics builds relationships*](https://www.nature.com/articles/s41592-022-01392-8).\\
-[11-01-2021] Invited talk @ Genentech, Cell and Tissue Genomics division.  
-[08-XX-2021] Invited talk @ Single Cell Proteomics Conference. Recording [here](https://www.youtube.com/watch?v=gvAb5Q0abYo).
-[08-XX-2021] Invited talk @ Cell Circuits & Epigenomics Seminar, Broad Institute. 
-[03-XX-2021] Invited talk @ [Single Cell Genomics day](https://satijalab.org/scgd21/), hosted by the Satija Lab at the New York Genome Center.
+[02-01-2022] Featured in an interview with science writer Vivien Marx in a Nature Methods special on [How single-cell multi-omics builds relationships](https://www.nature.com/articles/s41592-022-01392-8).\\
+[11-15-2021] Invited talk @ Genentech, Cell and Tissue Genomics division.  
+[08-17-2021] Invited talk @ Single Cell Proteomics Conference. Recording [here](https://www.youtube.com/watch?v=gvAb5Q0abYo).
+[07-19-2021] Talk @ Cell Circuits & Epigenomics Seminar, Broad Institute. 
+[03-26-2021] Invited talk @ [Single Cell Genomics day](https://satijalab.org/scgd21/), hosted by the Satija Lab at the New York Genome Center.
 
 
 ## Other
