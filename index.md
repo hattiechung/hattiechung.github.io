@@ -4,11 +4,11 @@
 
 Hello! I am a postdoctoral researcher at The Broad Institute of MIT and Harvard co-advised by [Aviv Regev](https://www.broadinstitute.org/bios/aviv-regev) (now at [Genentech](https://www.gene.com/scientists/our-scientists/aviv-regev)) and [Fei Chen](https://www.insitubiology.org/people).
 
-I received my Ph. D. in [Systems Biology](https://ssqbiophd.hms.harvard.edu/) from Harvard University as a Paul and Daisy [Soros Fellow](https://www.pdsoros.org/meet-the-fellows/hattie-chung). I received my S.B. in Biological Engineering from MIT, with a minor in Applied International Studies and a concentration in French. 
+I received my Ph. D. in [Systems Biology](https://ssqbiophd.hms.harvard.edu/) from Harvard University as a Paul and Daisy [Soros Fellow](https://www.pdsoros.org/meet-the-fellows/hattie-chung), advised by [Roy Kishony](https://kishony.technion.ac.il/)(now at Technion–Israel Institute of Technology, where I spent 3 summers during graduate school). I received my S.B. in Biological Engineering from MIT, with a minor in applied international studies and a concentration in French. 
 
 ## Research Interests
 
-I am an experimental and computational biologist intersted in understanding and predicting how cells respond to drugs in their native tissue contexts. Specifically, I develop proteogenomic tools that measure dynamic cell signaling states in tissues, with single-cell and machine learning approaches to collect and model multi-modal biological information.
+I am an experimental and computational biologist intersted in predicting how cells respond to drugs in their native tissue contexts. In particular, I develop proteogenomic tools that measure dynamic cell signaling states. I use single-cell and machine learning approaches to collect and model multi-modal biological information.
 
 ## Publications
 
