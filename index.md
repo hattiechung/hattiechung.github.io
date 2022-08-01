@@ -10,6 +10,8 @@ I received my Ph. D. in [Systems Biology](https://ssqbiophd.hms.harvard.edu/) fr
 
 I received my S.B. in [Biological Engineering](https://be.mit.edu/) from MIT with a minor in applied international studies.
 
+hchung [AT] broadinstitute.org | [Google Scholar](https://scholar.google.com/citations?user=kN3O3xsAAAAJ&hl=en) | [Twitter](https://[twitter](https://twitter.com/hattaca))
+
 ## Publications
 
 1. Joint single-cell measurements of nuclear proteins and RNA in vivo. **Chung H**, Parkhurst CN, Magee EM, Phillips D, Habibi E, Chen F, Yeung BZ, Waldman J, Artis D, Regev A. ***Nature Methods*** 2021 [[link](https://www.nature.com/articles/s41592-021-01278-1)] [[pdf](pdfs/inCITEseq.pdf)] [[feature](https://www.nature.com/articles/s41592-022-01392-8)]
