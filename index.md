@@ -1,6 +1,6 @@
 ## About Me 
 
-<img class="profile-picture" src="profile.jpg" style="float: right;" align="right" width="200">
+<img class="profile-picture" src="profile.jpg" style="float: right;" align="right" width="400">
 
 Hello! I am a postdoctoral researcher at The Broad Institute of MIT and Harvard co-advised by [Aviv Regev](https://www.broadinstitute.org/bios/aviv-regev) (now at [Genentech](https://www.gene.com/scientists/our-scientists/aviv-regev)) and [Fei Chen](https://www.insitubiology.org/people). 
 
