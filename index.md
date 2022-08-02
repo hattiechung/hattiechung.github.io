@@ -10,7 +10,7 @@ I received my Ph. D. in [Systems Biology](https://ssqbiophd.hms.harvard.edu/) fr
 
 I received my S.B. in [Biological Engineering](https://be.mit.edu/) from MIT with a minor in applied international studies.
 
-hchung [AT] broadinstitute.org \| [Google Scholar](https://scholar.google.com/citations?user=kN3O3xsAAAAJ&hl=en) \| [Twitter](https://[twitter](https://twitter.com/hattaca))
+hchung [AT] broadinstitute.org \| [Google Scholar](https://scholar.google.com/citations?user=kN3O3xsAAAAJ&hl=en) \| [Twitter](https://twitter.com/hattaca) @hattaca
 
 ## Publications
 
