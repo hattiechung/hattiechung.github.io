@@ -15,7 +15,7 @@ hchung [AT] broadinstitute.org \| [Google Scholar](https://scholar.google.com/ci
 ## Publications
 
 1. Joint single-cell measurements of nuclear proteins and RNA in vivo. 
-**Chung H**, Parkhurst CN, Magee EM, Phillips D, Habibi E, Chen F, Yeung BZ, Waldman J, Artis D, Regev A. ***Nature Methods*** 2021 [[link](https://www.nature.com/articles/s41592-021-01278-1)] [[pdf](pdfs/inCITEseq.pdf)] [[feature](https://www.nature.com/articles/s41592-022-01392-8)]
+**Chung H**, Parkhurst CN, Magee EM, Phillips D, Habibi E, Chen F, Yeung BZ, Waldman J, Artis D, Regev A. ***Nature Methods*** 2021 [[link](https://www.nature.com/articles/s41592-021-01278-1)] [[pdf](pdfs/inCITEseq.pdf)] [[feature](https://www.nature.com/articles/s41592-022-01392-8)]. 
 2. Rapid expansion and extinction of antibiotic resistance mutations during treatment of acute bacterial respiratory infections. 
 **Chung H**, Merakou C, Schaefers MM, Flett KB, Martini S, Lu R, Blumenthal JA, Webster SS, Cross AR, Al Ahmar R, Halpin E, Anderson M, Moore NS, Snesrud EC, Yu HD, Goldberg JB, O'Toole GA, McGann P, Stam JA, Hinkle M, McAdam AJ, Kishony R, Priebe GP. ***Nature Communications*** 2022 [[link](https://www.nature.com/articles/s41467-022-28188-w)] [[pdf](pdfs/acute.pdf)] [[news](https://answers.childrenshospital.org/genomic-surveillance-bacteria/)]
 3. Single-cell meta-analysis of SARS-CoV-2 entry genes across tissues and demographics. 
