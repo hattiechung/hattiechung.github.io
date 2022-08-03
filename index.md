@@ -4,7 +4,7 @@
 
 Hello! I am a postdoctoral researcher at The Broad Institute of MIT and Harvard co-advised by [Aviv Regev](https://www.broadinstitute.org/bios/aviv-regev) (now at [Genentech](https://www.gene.com/scientists/our-scientists/aviv-regev)) and [Fei Chen](https://www.insitubiology.org/people). 
 
-I am an experimental and computational biologist interested in predicting how cells respond to external signals in their native tissue contexts. In particular, I develop proteogenomic tools that measure dynamic cell signaling states, with focus on drug response and sensory tissues. I use single-cell and machine learning approaches to collect and model multi-modal biological information.
+I am an experimental and computational biologist interested in predicting how cells respond to external signals in their native tissue contexts. In particular, I develop proteogenomic tools that measure dynamic cell signaling states, with a focus on drug response and sensory systems. I use single-cell and machine learning approaches to collect and model multi-modal biological information.
 
 I received my Ph. D. in [Systems Biology](https://ssqbiophd.hms.harvard.edu/) from Harvard University as a Paul and Daisy [Soros Fellow](https://www.pdsoros.org/meet-the-fellows/hattie-chung) advised by [Roy Kishony](https://kishony.technion.ac.il/) (now at Technion–Israel Institute of Technology, where I spent 3 summers). My thesis was on evolutionary dynamics, in the context of how pathogens evolve during respiratory infections. 
 
@@ -37,12 +37,12 @@ Nguyen DN, Mahon KP, Chikh G, Kim P, **Chung H**, Vicari AP, Love KT, Goldberg M
 
 
 ## Recent News and Events
-* [June 2022] Invited to teach inCITE-seq at a hands-on workshop on [Single cell profiling and analysis in neuroscience](http://cajal-training.org/on-site/scpan/), hosted by the Cajal Advanced Neuroscience Training Programme and the Bordeaux School of Neuroscience. \\
-* [February 2022] Invited talk @ MIT Department of Biological Engineering. \\
-* [February 2022] Interview in a Nature Methods Technology Feature on [How single-cell multi-omics builds relationships](https://www.nature.com/articles/s41592-022-01392-8). \\
-* [November 2021] Invited talk @ Genentech, Cell and Tissue Genomics division. \\
-* [August 2021] Invited talk @ Single Cell Proteomics Conference. Recording [here](https://www.youtube.com/watch?v=gvAb5Q0abYo).\\
-* [July 2021] Talk @ Cell Circuits & Epigenomics Seminar, Broad Institute. \\
+* [June 2022] Invited to teach inCITE-seq at a hands-on workshop on [Single cell profiling and analysis in neuroscience](http://cajal-training.org/on-site/scpan/), hosted by the Cajal Advanced Neuroscience Training Programme and the Bordeaux School of Neuroscience. \
+* [February 2022] Invited talk @ MIT Department of Biological Engineering. \
+* [February 2022] Interview in a Nature Methods Technology Feature on [How single-cell multi-omics builds relationships](https://www.nature.com/articles/s41592-022-01392-8). \
+* [November 2021] Invited talk @ Genentech, Cell and Tissue Genomics division. \
+* [August 2021] Invited talk @ Single Cell Proteomics Conference. Recording [here](https://www.youtube.com/watch?v=gvAb5Q0abYo).\
+* [July 2021] Talk @ Cell Circuits & Epigenomics Seminar, Broad Institute. \
 * [March 2021] Invited talk @ [Single Cell Genomics day](https://satijalab.org/scgd21/). 
 
 
