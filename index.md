@@ -19,9 +19,9 @@ hchung [AT] broadinstitute.org \| [Google Scholar](https://scholar.google.com/ci
 2. Rapid expansion and extinction of antibiotic resistance mutations during treatment of acute bacterial respiratory infections. 
 **Chung H**, Merakou C, Schaefers MM, Flett KB, Martini S, Lu R, Blumenthal JA, Webster SS, Cross AR, Al Ahmar R, Halpin E, Anderson M, Moore NS, Snesrud EC, Yu HD, Goldberg JB, O'Toole GA, McGann P, Stam JA, Hinkle M, McAdam AJ, Kishony R, Priebe GP. ***Nature Communications*** 2022 [[link](https://www.nature.com/articles/s41467-022-28188-w)] [[pdf](pdfs/acute.pdf)] [[news](https://answers.childrenshospital.org/genomic-surveillance-bacteria/)]
 3. Single-cell meta-analysis of SARS-CoV-2 entry genes across tissues and demographics. 
-Muus C\*, Luecken M\*, Eraslan G\*, Waghray A\*, Heimberg G\*, Sikkema L\*, Kobayashi Y\*, Vaishnav ED\*, Subramanian A\*, Smillie CS\*, Jagadeesh K\*, Duong ET\*, Fiskin E\*, Torlai Triglai E\*, Ansari M\*, Cai P\*, Lin B\*, Buchanan J\*, Chen S\*, Shu J\*, Haber AL\*, **Chung H\***, Montoro DT\*, ... , NHLBI LungMAP Consortium. ***Nature Medicine*** 2021. *This was a large team effort at the start of the COVID-19 pandemic*. [[link](https://www.nature.com/articles/s41591-020-01227-z)]
+Muus C\*, Luecken M\*, Eraslan G\*, Waghray A\*, Heimberg G\*, Sikkema L\*, Kobayashi Y\*, Vaishnav ED\*, Subramanian A\*, Smillie CS\*, Jagadeesh K\*, Duong ET\*, Fiskin E\*, Torlai Triglia E\*, Ansari M\*, Cai P\*, Lin B\*, Buchanan J\*, Chen S\*, Shu J\*, Haber AL\*, **Chung H\***, Montoro DT\*, ... , NHLBI LungMAP Consortium. ***Nature Medicine*** 2021. *This was a large team effort at the start of the COVID-19 pandemic*. [[link](https://www.nature.com/articles/s41591-020-01227-z)]
 4. A multi-view generative model for small molecule representation improves prediction tasks. 
-Yin Y\*, **Chung H\***, Regev A. ***NeurIPS Learning Meaningful Representations of Life workshop*** 2020 [[link](https://drive.google.com/file/d/1LlHTQ307MGxHsJbRDIJrEGPLRCBvbk0P/preview)] [[pdf](pdfs/multiviewVAE.pdf)] [[selected talk](https://slideslive.com/38942737/a-multiview-generative-model-for-molecular-representation-improves-prediction-tasks)]
+Yin J\*, **Chung H\***, Regev A. ***NeurIPS Learning Meaningful Representations of Life workshop*** 2020 [[link](https://drive.google.com/file/d/1LlHTQ307MGxHsJbRDIJrEGPLRCBvbk0P/preview)] [[pdf](pdfs/multiviewVAE.pdf)] [[selected talk](https://slideslive.com/38942737/a-multiview-generative-model-for-molecular-representation-improves-prediction-tasks)]
 5. The microbiota regulate neuronal function and fear extinction learning. 
 Chu C, Murdock MH, Jing D, Won TH, **Chung H**, Kressel AM, Tsaava T, Addorisio ME, Putzel GG, Zhou L, Bessman NJ, Yang R, Moriyama S, Parkhurst CN, Li A, Meyer HC, Teng F, Chavan SS, Tracey KJ, Regev A, Schroeder FC, Liston C, Artis D. ***Nature*** 2019. [[link](https://www.nature.com/articles/s41586-019-1644-y)] [[news](https://www.nature.com/articles/d41586-019-03114-1)]
 6. Global and local selection acting on the pathogen Stenotrophomonas maltophilia in the human lung. 
@@ -37,13 +37,14 @@ Nguyen DN, Mahon KP, Chikh G, Kim P, **Chung H**, Vicari AP, Love KT, Goldberg M
 
 
 ## Recent News and Events
-* [June 2022] Invited to teach inCITE-seq at a hands-on workshop on [Single cell profiling and analysis in neuroscience](http://cajal-training.org/on-site/scpan/), hosted by the Cajal Advanced Neuroscience Training Programme and the Bordeaux School of Neuroscience. \
-* [February 2022] Invited talk @ MIT Department of Biological Engineering. \
-* [February 2022] Interview in a Nature Methods Technology Feature on [How single-cell multi-omics builds relationships](https://www.nature.com/articles/s41592-022-01392-8). \
-* [November 2021] Invited talk @ Genentech, Cell and Tissue Genomics division. \
-* [August 2021] Invited talk @ Single Cell Proteomics Conference. Recording [here](https://www.youtube.com/watch?v=gvAb5Q0abYo).\
-* [July 2021] Talk @ Cell Circuits & Epigenomics Seminar, Broad Institute. \
-* [March 2021] Invited talk @ [Single Cell Genomics day](https://satijalab.org/scgd21/). 
+* [June 2022] Invited to teach inCITE-seq at a hands-on workshop on [Single cell profiling and analysis in neuroscience](http://cajal-training.org/on-site/scpan/), hosted by the Cajal Advanced Neuroscience Training Programme and the Bordeaux School of Neuroscience. 
+* [February 2022] Invited talk @ MIT Department of Biological Engineering. 
+* [February 2022] Interview in a Nature Methods Technology Feature on [How single-cell multi-omics builds relationships](https://www.nature.com/articles/s41592-022-01392-8). 
+* [November 2021] Invited talk @ Genentech, Cell and Tissue Genomics division. 
+* [October 2021] Invited talk @ UVA Symposium for Emerging Scholars in Genome Sciences
+* [August 2021] Invited talk @ Single Cell Proteomics Conference. Recording [here](https://www.youtube.com/watch?v=gvAb5Q0abYo).
+* [July 2021] Talk @ Cell Circuits & Epigenomics Seminar, Broad Institute. 
+* [March 2021] Invited talk @ [Single Cell Genomics day](https://satijalab.org/scgd21/).
 
 
 ### Misc
