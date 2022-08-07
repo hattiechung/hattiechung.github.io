@@ -15,5 +15,7 @@ footer_text: "~~~"
 nav:
  - name: "About"
    link: "/"
+ - name: "Resources"
+   link: "/resources/index.md"
  - name: "CV"
    link: "/pdfs/cv.pdf"
