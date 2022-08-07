@@ -22,7 +22,7 @@ hchung [AT] broadinstitute.org \| [Google Scholar](https://scholar.google.com/ci
 3. Single-cell meta-analysis of SARS-CoV-2 entry genes across tissues and demographics. 
 Muus C\*, Luecken M\*, Eraslan G\*, Waghray A\*, Heimberg G\*, Sikkema L\*, Kobayashi Y\*, Vaishnav ED\*, Subramanian A\*, Smillie CS\*, Jagadeesh K\*, Duong ET\*, Fiskin E\*, Torlai Triglia E\*, Ansari M\*, Cai P\*, Lin B\*, Buchanan J\*, Chen S\*, Shu J\*, Haber AL\*, **Chung H\***, Montoro DT\*, ... , NHLBI LungMAP Consortium. ***Nature Medicine*** 2021. *This was a large team effort at the start of the COVID-19 pandemic*. [[link](https://www.nature.com/articles/s41591-020-01227-z)]
 4. A multi-view generative model for small molecule representation improves prediction tasks. 
-Yin J\*, **Chung H\*,^**, Regev A^. ***NeurIPS Learning Meaningful Representations of Life workshop*** 2020 [[link](https://drive.google.com/file/d/1LlHTQ307MGxHsJbRDIJrEGPLRCBvbk0P/preview)] [[pdf](pdfs/multiviewVAE.pdf)] [[selected talk](https://slideslive.com/38942737/a-multiview-generative-model-for-molecular-representation-improves-prediction-tasks)]
+Yin J\*, **Chung H\*^**, Regev A^. ***NeurIPS Learning Meaningful Representations of Life workshop*** 2020 [[link](https://drive.google.com/file/d/1LlHTQ307MGxHsJbRDIJrEGPLRCBvbk0P/preview)] [[pdf](pdfs/multiviewVAE.pdf)] [[selected talk](https://slideslive.com/38942737/a-multiview-generative-model-for-molecular-representation-improves-prediction-tasks)]
 5. Global and local selection acting on the pathogen Stenotrophomonas maltophilia in the human lung. 
 **Chung H**, Lieberman TD, Vargas SO, Flett KB, McAdam AJ, Priebe GP, Kishony R. ***Nature Communications*** 2017. [[link](https://www.nature.com/articles/ncomms14078)] [[pdf](pdfs/steno_lung.pdf)]
 
