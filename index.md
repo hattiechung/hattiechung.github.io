@@ -2,9 +2,9 @@
 
 <img class="profile-picture" src="profile.jpg" style="float: right;" align="right" width="400">
 
-Hello! I am a postdoctoral researcher at The Broad Institute of MIT and Harvard co-advised by [Aviv Regev](https://www.broadinstitute.org/bios/aviv-regev) (now at [Genentech](https://www.gene.com/scientists/our-scientists/aviv-regev)) and [Fei Chen](https://www.insitubiology.org/people). 
+Hello! I am a postdoctoral researcher at The [Broad Institute](https://www.broadinstitute.org/) of MIT and Harvard co-advised by [Aviv Regev](https://www.broadinstitute.org/bios/aviv-regev) (now at [Genentech](https://www.gene.com/scientists/our-scientists/aviv-regev)) and [Fei Chen](https://www.insitubiology.org/people). 
 
-I am an experimental and computational biologist interested in predicting how cells respond to external signals in their native tissue contexts. In particular, I develop proteogenomic tools that measure dynamic cell signaling states, with a focus on drug response and sensory systems. I use single-cell and machine learning approaches to collect and model multi-modal biological information.
+I am an experimental and computational biologist developing tools to study how cells respond to external signals in their native tissue contexts. In particular, I develop single-cell proteogenomic tools that measure cell signaling in tissues, applied to studying drug response and how sensory systems integrate external cues. 
 
 I received my Ph. D. in [Systems Biology](https://ssqbiophd.hms.harvard.edu/) from Harvard University as a Paul and Daisy [Soros Fellow](https://www.pdsoros.org/meet-the-fellows/hattie-chung) advised by [Roy Kishony](https://kishony.technion.ac.il/) (now at Technion–Israel Institute of Technology, where I spent 3 summers). My thesis was on evolutionary dynamics, in the context of how pathogens evolve during respiratory infections. 
 
@@ -12,20 +12,23 @@ I received my S.B. in [Biological Engineering](https://be.mit.edu/) from MIT wit
 
 hchung [AT] broadinstitute.org \| [Google Scholar](https://scholar.google.com/citations?user=kN3O3xsAAAAJ&hl=en) \| [Twitter](https://twitter.com/hattaca)
 
-## Publications
+## Key Publications
+\* equal contribution, ^co-corresponding author
 
 1. Joint single-cell measurements of nuclear proteins and RNA in vivo. 
-**Chung H**, Parkhurst CN, Magee EM, Phillips D, Habibi E, Chen F, Yeung BZ, Waldman J, Artis D, Regev A. ***Nature Methods*** 2021 [[link](https://www.nature.com/articles/s41592-021-01278-1)] [[pdf](pdfs/inCITEseq.pdf)] [[feature](https://www.nature.com/articles/s41592-022-01392-8)]. 
+**Chung H^**, Parkhurst CN, Magee EM, Phillips D, Habibi E, Chen F, Yeung BZ, Waldman J, Artis D, Regev A^. ***Nature Methods*** 2021 [[link](https://www.nature.com/articles/s41592-021-01278-1)] [[pdf](pdfs/inCITEseq.pdf)] [[feature](https://www.nature.com/articles/s41592-022-01392-8)]. 
 2. Rapid expansion and extinction of antibiotic resistance mutations during treatment of acute bacterial respiratory infections. 
 **Chung H**, Merakou C, Schaefers MM, Flett KB, Martini S, Lu R, Blumenthal JA, Webster SS, Cross AR, Al Ahmar R, Halpin E, Anderson M, Moore NS, Snesrud EC, Yu HD, Goldberg JB, O'Toole GA, McGann P, Stam JA, Hinkle M, McAdam AJ, Kishony R, Priebe GP. ***Nature Communications*** 2022 [[link](https://www.nature.com/articles/s41467-022-28188-w)] [[pdf](pdfs/acute.pdf)] [[news](https://answers.childrenshospital.org/genomic-surveillance-bacteria/)]
 3. Single-cell meta-analysis of SARS-CoV-2 entry genes across tissues and demographics. 
 Muus C\*, Luecken M\*, Eraslan G\*, Waghray A\*, Heimberg G\*, Sikkema L\*, Kobayashi Y\*, Vaishnav ED\*, Subramanian A\*, Smillie CS\*, Jagadeesh K\*, Duong ET\*, Fiskin E\*, Torlai Triglia E\*, Ansari M\*, Cai P\*, Lin B\*, Buchanan J\*, Chen S\*, Shu J\*, Haber AL\*, **Chung H\***, Montoro DT\*, ... , NHLBI LungMAP Consortium. ***Nature Medicine*** 2021. *This was a large team effort at the start of the COVID-19 pandemic*. [[link](https://www.nature.com/articles/s41591-020-01227-z)]
 4. A multi-view generative model for small molecule representation improves prediction tasks. 
-Yin J\*, **Chung H\***, Regev A. ***NeurIPS Learning Meaningful Representations of Life workshop*** 2020 [[link](https://drive.google.com/file/d/1LlHTQ307MGxHsJbRDIJrEGPLRCBvbk0P/preview)] [[pdf](pdfs/multiviewVAE.pdf)] [[selected talk](https://slideslive.com/38942737/a-multiview-generative-model-for-molecular-representation-improves-prediction-tasks)]
-5. The microbiota regulate neuronal function and fear extinction learning. 
-Chu C, Murdock MH, Jing D, Won TH, **Chung H**, Kressel AM, Tsaava T, Addorisio ME, Putzel GG, Zhou L, Bessman NJ, Yang R, Moriyama S, Parkhurst CN, Li A, Meyer HC, Teng F, Chavan SS, Tracey KJ, Regev A, Schroeder FC, Liston C, Artis D. ***Nature*** 2019. [[link](https://www.nature.com/articles/s41586-019-1644-y)] [[news](https://www.nature.com/articles/d41586-019-03114-1)]
-6. Global and local selection acting on the pathogen Stenotrophomonas maltophilia in the human lung. 
+Yin J\*, **Chung H\*,^**, Regev A^. ***NeurIPS Learning Meaningful Representations of Life workshop*** 2020 [[link](https://drive.google.com/file/d/1LlHTQ307MGxHsJbRDIJrEGPLRCBvbk0P/preview)] [[pdf](pdfs/multiviewVAE.pdf)] [[selected talk](https://slideslive.com/38942737/a-multiview-generative-model-for-molecular-representation-improves-prediction-tasks)]
+5. Global and local selection acting on the pathogen Stenotrophomonas maltophilia in the human lung. 
 **Chung H**, Lieberman TD, Vargas SO, Flett KB, McAdam AJ, Priebe GP, Kishony R. ***Nature Communications*** 2017. [[link](https://www.nature.com/articles/ncomms14078)] [[pdf](pdfs/steno_lung.pdf)]
+
+### Other Publications
+6. The microbiota regulate neuronal function and fear extinction learning. 
+Chu C, Murdock MH, Jing D, Won TH, **Chung H**, Kressel AM, Tsaava T, Addorisio ME, Putzel GG, Zhou L, Bessman NJ, Yang R, Moriyama S, Parkhurst CN, Li A, Meyer HC, Teng F, Chavan SS, Tracey KJ, Regev A, Schroeder FC, Liston C, Artis D. ***Nature*** 2019. [[link](https://www.nature.com/articles/s41586-019-1644-y)] [[news](https://www.nature.com/articles/d41586-019-03114-1)]
 7. RNA structural determinants of optimal codons revealed by MAGE-Seq. 
 Kelsic ED\*, **Chung H\***, Cohen N, Park J, Wang HH, Kishony R. ***Cell Systems*** 2016. [[link](https://www.sciencedirect.com/science/article/pii/S2405471216303684)] [[pdf](pdfs/codon_bias.pdf)] [[highlight](https://www.sciencedirect.com/science/article/pii/S2405471217300042)]
 8. Inexpensive Multiplexed Library Preparation for Megabase-Sized Genomes. 
@@ -34,7 +37,6 @@ Baym M\*, Kryazhimskiy S\*, Lieberman TD\*, **Chung H\***, Desai MM, Kishony R. 
 Gyorgy A, Jimenez JI, Yazbek J, Huang HH, **Chung H**, Weiss R, Del Vecchio D. ***Biophysical Journal*** 2015. [[link](https://www.sciencedirect.com/science/article/pii/S0006349515006177)]
 10. Lipid-derived nanoparticles for immunostimulatory RNA adjuvant delivery. 
 Nguyen DN, Mahon KP, Chikh G, Kim P, **Chung H**, Vicari AP, Love KT, Goldberg M, Chen S, Krieg AM, Chen J, Langer R. Anderson DG. ***Proceedings of the National Academy of Sciences*** 2012. [[link](https://www.pnas.org/doi/abs/10.1073/pnas.1121423109)]
-
 
 ## Recent News and Events
 * [June 2022] Invited to teach inCITE-seq at a hands-on workshop on [Single cell profiling and analysis in neuroscience](http://cajal-training.org/on-site/scpan/), hosted by the Cajal Advanced Neuroscience Training Programme and the Bordeaux School of Neuroscience. 
