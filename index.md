@@ -4,7 +4,7 @@
 
 Hello! I am a postdoctoral researcher at The [Broad Institute](https://www.broadinstitute.org/) of MIT and Harvard co-advised by [Aviv Regev](https://www.broadinstitute.org/bios/aviv-regev) (now at [Genentech](https://www.gene.com/scientists/our-scientists/aviv-regev)) and [Fei Chen](https://www.insitubiology.org/people). 
 
-I am an experimental and computational biologist developing tools to study how cells respond to external signals in their native tissue contexts. In particular, I develop single-cell proteogenomic tools that measure cell signaling in tissues, applied to studying drug response and how sensory systems integrate external cues. 
+I develop single-cell proteogenomic tools to study how cells respond to external signals. In particular, I am interested in quantifying the on-target vs. off-target effects of drugs on cell behavior, developing new ways to measure protein activities with single cell and spatial transcriptomics, and applying these approaches to understand how drugs act on cell types in their native tissue contexts. 
 
 I received my Ph. D. in [Systems Biology](https://ssqbiophd.hms.harvard.edu/) from Harvard University as a Paul and Daisy [Soros Fellow](https://www.pdsoros.org/meet-the-fellows/hattie-chung) advised by [Roy Kishony](https://kishony.technion.ac.il/) (now at Technion–Israel Institute of Technology, where I spent 3 summers). My thesis was on evolutionary dynamics, in the context of how pathogens evolve during respiratory infections. 
 
