@@ -4,7 +4,7 @@
 
 Hello! I am a postdoctoral researcher at The [Broad Institute](https://www.broadinstitute.org/) of MIT and Harvard co-advised by [Aviv Regev](https://www.broadinstitute.org/bios/aviv-regev) (now at [Genentech](https://www.gene.com/scientists/our-scientists/aviv-regev)) and [Fei Chen](https://www.insitubiology.org/people). 
 
-I am interested in addressing the gap between how we measure and predict how drugs work. To this end, I develop single-cell proteogenomic tools that measure and relate drug-induced changes in protein activities to cell behaviors, across single cells and spatial contexts. By applying such computational and experimental tools, I aim to enable studying the complex effects of drugs across cell types in their native tissue contexts. 
+I develop single-cell proteogenomic tools to address the gap between how we measure and predict how drugs work. In particular, I focus on experimental and computational approaches to measure and relate drug-induced changes in protein target activities to cell behaviors, across single cells and spatial contexts, to enable studying the complex effects of drugs across cell types in their native tissue contexts. 
 
 I received my Ph. D. in [Systems Biology](https://ssqbiophd.hms.harvard.edu/) from Harvard University as a Paul and Daisy [Soros Fellow](https://www.pdsoros.org/meet-the-fellows/hattie-chung) advised by [Roy Kishony](https://kishony.technion.ac.il/) (now at Technion–Israel Institute of Technology, where I spent 3 summers). My thesis was on evolutionary dynamics, in the context of how pathogens evolve during respiratory infections. 
 
