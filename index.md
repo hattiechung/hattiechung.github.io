@@ -13,7 +13,6 @@ I received my S.B. in [Biological Engineering](https://be.mit.edu/) from MIT wit
 hchung [AT] broadinstitute.org \| [Google Scholar](https://scholar.google.com/citations?user=kN3O3xsAAAAJ&hl=en) \| [Twitter](https://twitter.com/hattaca)
 
 ## Key Publications
-<sub><sup>\* equal contribution, ^co-corresponding author</sup></sub>
 
 1. Joint single-cell measurements of nuclear proteins and RNA in vivo. 
 **Chung H^**, Parkhurst CN, Magee EM, Phillips D, Habibi E, Chen F, Yeung BZ, Waldman J, Artis D, Regev A^. ***Nature Methods*** 2021 [[link](https://www.nature.com/articles/s41592-021-01278-1)] [[pdf](pdfs/inCITEseq.pdf)] [[feature](https://www.nature.com/articles/s41592-022-01392-8)]. 
@@ -25,6 +24,8 @@ Muus C\*, Luecken M\*, Eraslan G\*, Waghray A\*, Heimberg G\*, Sikkema L\*, Koba
 Yin J\*, **Chung H\*^**, Regev A^. ***NeurIPS Learning Meaningful Representations of Life workshop*** 2020 [[link](https://drive.google.com/file/d/1LlHTQ307MGxHsJbRDIJrEGPLRCBvbk0P/preview)] [[pdf](pdfs/multiviewVAE.pdf)] [[selected talk](https://slideslive.com/38942737/a-multiview-generative-model-for-molecular-representation-improves-prediction-tasks)]
 5. Global and local selection acting on the pathogen Stenotrophomonas maltophilia in the human lung. 
 **Chung H**, Lieberman TD, Vargas SO, Flett KB, McAdam AJ, Priebe GP, Kishony R. ***Nature Communications*** 2017. [[link](https://www.nature.com/articles/ncomms14078)] [[pdf](pdfs/steno_lung.pdf)]
+
+<sub><sup>\* equal contribution, ^co-corresponding author</sup></sub>
 
 ### Other Publications
 6. The microbiota regulate neuronal function and fear extinction learning. 
