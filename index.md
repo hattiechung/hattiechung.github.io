@@ -6,9 +6,7 @@ I am a postdoctoral researcher at The [Broad Institute](https://www.broadinstitu
 
 I develop single-cell proteogenomic tools to address the gap between how we measure and predict how drugs work in tissues. In particular, I am interested in methods for measuring signaling at the protein level across single cells and spatial contexts, applied to study how different cell types in tissues respond to external signals, such as drugs.
 
-I received my Ph. D. in [Systems Biology](https://ssqbiophd.hms.harvard.edu/) from Harvard University as a Paul and Daisy [Soros Fellow](https://www.pdsoros.org/meet-the-fellows/hattie-chung) advised by [Roy Kishony](https://kishony.technion.ac.il/) (now at Technion–Israel Institute of Technology). My thesis was on evolutionary dynamics, in the context of how pathogens evolve during respiratory infections. 
-
-I received my S.B. in [Biological Engineering](https://be.mit.edu/) from MIT with a minor in applied international studies.
+I received my Ph. D. in [Systems Biology](https://ssqbiophd.hms.harvard.edu/) from Harvard University as a Paul and Daisy [Soros Fellow](https://www.pdsoros.org/meet-the-fellows/hattie-chung) advised by [Roy Kishony](https://kishony.technion.ac.il/) (now at Technion–Israel Institute of Technology). My thesis was on evolutionary dynamics, in the context of how pathogens evolve during respiratory infections. I received my S.B. in [Biological Engineering](https://be.mit.edu/) from MIT with a minor in applied international studies.
 
 hchung [AT] broadinstitute.org \| [Google Scholar](https://scholar.google.com/citations?user=kN3O3xsAAAAJ&hl=en) \| [Twitter](https://twitter.com/hattaca)
 
