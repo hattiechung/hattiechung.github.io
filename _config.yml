@@ -1,24 +1,21 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Hattie Chung
+url: "https://hattiechung.github.io"
+baseurl: "/"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
-
-tracking_id: #
-
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
 
 sass:
     style: compressed
     sass_dir: _sass
 
+footer: yes
+footer_url: ""
+footer_text: "~~~"
+
 nav:
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+   link: "/"
+ - name: "Resources"
+   link: "/resources/index.md"
+ - name: "CV"
+   link: "/pdfs/cv.pdf"
