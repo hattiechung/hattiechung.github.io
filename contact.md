@@ -3,22 +3,15 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* Email: hchung [AT] broadinstitute.org
 
 ---
 
 ## Social
 
+<<<<<<< HEAD
+[Twitter](https://twitter.com/hattaca)
+[Google Scholar](https://scholar.google.com/citations?user=kN3O3xsAAAAJ&hl=en)
+=======
 [Twitter]
+>>>>>>> a388786160418c4b50d948e9b4bf1fc9f367c29a
