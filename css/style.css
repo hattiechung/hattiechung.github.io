@@ -11,6 +11,8 @@ nav{
 	display: flex; 
 	align-items: right;
 	justify-content: space-between;
+	font-weight: 400; 
+	font-size: 22px;
 }
 
 .nav-links{
